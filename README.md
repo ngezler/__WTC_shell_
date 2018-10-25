@@ -1,2 +1,2 @@
 # __WTC_shell_
-my first csh shell and wethink code
+my first csh shell at wethink code
