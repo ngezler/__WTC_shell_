@@ -1,3 +1,3 @@
 # __WTC_shell_
-my first csh shell and wethink code
+this is a mimic of a shell commandline interface with most of the comands that you can find on the terminal.
 Screenshot 2018-10-29 at 08.52.41.png
